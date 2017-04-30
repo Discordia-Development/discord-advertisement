@@ -14,4 +14,4 @@ After installing everything with `npm install`, either `pm2 start memebot.js` or
 Happy advertisement. Keep it fun as well, don't be a dick and make real advertisements.
 
 
-Support server (if you need help setting it up for whatever reason: https://discord.ggV4EKfkb
+Support server (if you need help setting it up for whatever reason): https://discord.ggV4EKfkb
